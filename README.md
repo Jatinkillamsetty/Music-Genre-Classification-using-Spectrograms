@@ -87,5 +87,3 @@ Both models contribute differently:
 
 The fusion method boosts accuracy by using both local and global perspectives of the audio.
 
-
-Just tell me!
